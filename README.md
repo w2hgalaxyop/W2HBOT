@@ -59,25 +59,7 @@ admins in group to take help.
 <a href="https://t.me/W2HOP_BOT_HELP"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </details>
-
-<details>
-
-  <summary> Video Tutorial 📺 </summary>
-
-```
-
-Official YouTube Channel Of Hêllẞø†.
-
-Click on the link below to get tutorial on 
-
-How To Deploy Hêllẞø†.
-
-```
-
-<a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-
-<a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social"></a>
-
+ 
 </details>
 
 <h2 align="center">⚙️ Set-Up ⚙️</h2>
@@ -90,6 +72,8 @@ How To Deploy Hêllẞø†.
 
 </a>
 
+<h4 align="center"><a href="https://replit.com/@GalaxyOp/W2HBOT/"><img alt="Run on Repl.it" src="https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+  
 <h3 align="center">⚔️ The Normal Way ⚔️</h3>
 
 <h4 align="center">To host W2HBOT locally or on any other VPS, Go to</h4>
