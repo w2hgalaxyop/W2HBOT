@@ -1,1 +1,1 @@
-worker: bash hellbot
+worker: bash W2HBOT
