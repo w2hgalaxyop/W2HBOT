@@ -6,13 +6,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/W2HGalaxy-OP/W2HBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/David99q)
 
-<h1 align="center">⚡ †hê W2HBOT ⚡</h1>
+<h1 align="center">⚡ W2HBOT USERBOT ⚡</h1>
 
 <h4 align="center">Legend's choice W2HBOT</h4>
 
 <h5>This is a userbot made only for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
 
-This is the one and only official W2HBOT Userbot made by #Team_Galaxy.
+This is the one and only official W2HBOT Userbot made by #Team_W2H.
 
 Don't forget to star this repo if you liked it.
 
