@@ -46,7 +46,7 @@ Enjoy Your Bot!!💝
 
 Get help regarding setting up 
 
-your W2HBOT in support grou and join
+your W2HBOT in support group and join
 
 channel for further updates contact 
 
