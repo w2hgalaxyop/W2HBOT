@@ -77,7 +77,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@W2HBoyOP/W2HBOT#main.py ",
+      "description": "Get this value by running https://replit.com/@GalaxyOp/W2HBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
