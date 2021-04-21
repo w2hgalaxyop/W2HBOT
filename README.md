@@ -79,7 +79,7 @@ admins in group to take help.
 
 <h4 align="center">To host W2HBOT locally or on any other VPS, Go to</h4>
 
-<h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/W2HGalaxy-OP/W2H">⚡ W2H MASTER REPO ⚡</a></h2>
 
 ## Mandatory Vars
 
