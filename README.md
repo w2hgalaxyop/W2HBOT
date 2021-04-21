@@ -34,8 +34,6 @@ Enjoy Your Bot!!💝
 
 • [Uniborg](https://github.com/spechide/uniborg)
 
-• [W2Hbot](https://github.com/W2HBoy-OP/W2HBot)
-
 </details>
 
 <details>
